@@ -10,7 +10,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Data-Quality-Enrichment?style=social)](https://github.com/ishandutta2007/Awesome-Automated-Data-Quality-Enrichment/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Data-Quality-Enrichment?style=social)](https://github.com/ishandutta2007/Awesome-Automated-Data-Quality-Enrichment/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Automated-Data-Quality-Enrichment/pulls)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -70,9 +70,9 @@ The table below benchmarks commercial SaaS data quality and enrichment platforms
 
 The following open-source frameworks provide self-hosted tools for automated data validation, entity resolution, data profiling, continuous cleansing, and public data enrichment 💻. 
 
-Sorted by **GitHub Star Count** (descending) 🌟:
+Sorted by **GitHub Stars_Count** (descending) 🌟:
 
-| Project | Stars | Category | Core Tech Stack | Description & Highlights |
+| Project | GitHub_Stars | Category | Core Tech Stack | Description & Highlights |
 | :--- | :---: | :--- | :--- | :--- |
 | **[OpenRefine](https://github.com/OpenRefine/OpenRefine)** 💎 | [![OpenRefine Stars](https://img.shields.io/github/stars/OpenRefine/OpenRefine?style=social&color=white)](https://github.com/OpenRefine/OpenRefine/stargazers) | Data Cleansing & Transformation | Java, Web UI | The industry standard open-source desktop tool for exploring, cleaning, and transforming messy tabular data with GREL expressions and reconciliation APIs. |
 | **[Great Expectations](https://github.com/great-expectations/great_expectations)** 🛡️ | [![Great Expectations Stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers) | Data Quality & Testing Framework | Python, SQL, Spark | Leading framework for automated data testing, continuous quality profiling, data documentation, and pipeline integration (dbt, Airflow, Snowflake). |
@@ -165,7 +165,7 @@ Contributions are welcome! Please feel free to submit a pull request:
 1. **Fork this repository** to your GitHub account.
 2. **Add or update entries** following the tabular or formatted layout:
    - For SaaS tools: include verified starting prices, exact free tier / trial conditions, and company scale metrics.
-   - For Open-Source projects: provide the GitHub repository, star badge (`style=social&color=white`), license, and core use cases.
+   - For Open-Source projects: provide the GitHub repository, Stars_Badge (`style=social&color=white`), license, and core use cases.
 3. **Submit a Pull Request** with a descriptive summary of your updates.
 
 ---
@@ -175,3 +175,12 @@ Contributions are welcome! Please feel free to submit a pull request:
 - This list is community-curated for technical and business evaluation.
 - Pricing, free tiers, and API terms change regularly. Always confirm exact licensing and quota limits directly with vendors before building commercial integrations.
 - Scraping public websites, SMTP verification (RCPT TO), and automated lead ingestion must always comply with applicable data protection regulations (including GDPR, CCPA/CPRA, and CAN-SPAM) and third-party terms of service.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Automated-Data-Quality-Enrichment&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Automated-Data-Quality-Enrichment_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Automated-Data-Quality-Enrichment_growth.svg">
+  </picture>
+</a>
